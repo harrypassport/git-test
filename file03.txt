@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-testing 003-02-04
-=======
-testing 003-02-05
->>>>>>> test
+this is updated for 03 file in master branch
