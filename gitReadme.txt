@@ -31,7 +31,7 @@
 
 8. 分支与合并
    git branch 查看分支
-   git branch xxxx 创建 xxxx分支
+   git branch xxxx 创建 xxxx分支   (新建分支，则该分支自动继承当前分支下的仓库数据）
    git checkout xxxx 切换到某分支
    git checkout -b xxxx 创建并切换到 xxxx分支 
    git branch -d xxxx 删除分支 或 git branch -D xxxx 强行删除分支 （删除时，常切换到别的分支）
